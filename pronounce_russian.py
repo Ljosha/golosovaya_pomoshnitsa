@@ -33,7 +33,7 @@ def main():
 
         if text.startswith('напиши папе'):
             soobshenie = text[12:]
-            papa = +16192473912
+            papa = ''
             send_whatsapp_message(papa, soobshenie)
             pon = 'da'
 
