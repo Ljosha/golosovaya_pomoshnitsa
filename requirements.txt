@@ -1,0 +1,5 @@
+gTTS
+pyaudio
+wave
+time
+numpy
